@@ -1,4 +1,5 @@
 {
+  "access-token": "${{ secrets.ACCESS_TOKEN }}",
   "server": "onephoto.club",
   "home-timeline-length": 200,
   "max-followings": 80,
